@@ -1,18 +1,20 @@
 {
-  "name": "vanilla",
+  "name": "dr-brinner-cures-boredom",
   "version": "1.0.0",
-  "description": "JavaScript example starter project",
+  "description": "Official Site",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html --out-dir public"
   },
-  "dependencies": { "parcel-bundler": "^1.6.1" },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
   "devDependencies": {
     "@babel/core": "7.2.0"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
   },
-  "keywords": ["javascript", "starter"]
+  "keywords": []
 }
